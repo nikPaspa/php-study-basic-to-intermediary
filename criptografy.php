@@ -44,7 +44,7 @@ echo base64_decode($b);
             <li>User: <input type="text" name="txtUser" /></li>
             <li>Password: <input type="password" name="txtPassword2" /></li>
             <li><input type="submit" name="btnSubmit" Value="Sign in" />
-                <a href="http://localhost/php-course/criptografy.php">Upgrade</a>        
+                <a href="http://localhost/php-study-basic-to-intermediary/criptografy.php">Upgrade</a>        
         </li>
         </ul>
     </form>
